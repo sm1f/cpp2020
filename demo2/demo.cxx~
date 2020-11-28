@@ -1,0 +1,7 @@
+
+#include <iostream>
+
+int main(int argc, const char* argvs)
+{
+  std::cout << "hello world" << std::endl;
+}

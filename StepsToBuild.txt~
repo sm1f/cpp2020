@@ -1,0 +1,18 @@
+to build:
+
+cd build/
+cmake ..
+cmake --build .
+
+
+to run:
+build/Demo/helloDemo 
+
+
+2009  ls
+ 2010  ls ../Hello/
+ 2011  ls ../Demo/
+ 2012  ls
+ 2013  ls Demo/
+ 2014  ls Demo/helloDemo 
+ 2015  

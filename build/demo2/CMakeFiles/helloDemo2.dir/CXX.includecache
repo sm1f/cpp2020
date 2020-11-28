@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/steve/2020/cpp2020/demo2/demo.cpp
+iostream
+-
+
+/home/steve/2020/cpp2020/demo2/demo_b.cpp
+

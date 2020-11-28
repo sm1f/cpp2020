@@ -1,0 +1,14 @@
+/home/steve/2020/cpp2020/build/CMakeFiles/rebuild_cache.dir
+/home/steve/2020/cpp2020/build/CMakeFiles/edit_cache.dir
+/home/steve/2020/cpp2020/build/Hello/CMakeFiles/rebuild_cache.dir
+/home/steve/2020/cpp2020/build/Hello/CMakeFiles/Hello.dir
+/home/steve/2020/cpp2020/build/Hello/CMakeFiles/edit_cache.dir
+/home/steve/2020/cpp2020/build/Demo/CMakeFiles/rebuild_cache.dir
+/home/steve/2020/cpp2020/build/Demo/CMakeFiles/helloDemo.dir
+/home/steve/2020/cpp2020/build/Demo/CMakeFiles/edit_cache.dir
+/home/steve/2020/cpp2020/build/demo2/CMakeFiles/rebuild_cache.dir
+/home/steve/2020/cpp2020/build/demo2/CMakeFiles/helloDemo2.dir
+/home/steve/2020/cpp2020/build/demo2/CMakeFiles/edit_cache.dir
+/home/steve/2020/cpp2020/build/hello2/CMakeFiles/rebuild_cache.dir
+/home/steve/2020/cpp2020/build/hello2/CMakeFiles/hello2.dir
+/home/steve/2020/cpp2020/build/hello2/CMakeFiles/edit_cache.dir

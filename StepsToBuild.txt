@@ -1,0 +1,11 @@
+to build:
+
+cd build/
+cmake ..
+cmake --build .
+
+
+to run:
+cd .
+build/Demo/helloDemo 
+
